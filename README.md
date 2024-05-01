@@ -31,10 +31,18 @@ The employee panel empowers team members to manage their assigned tasks effectiv
 - **Data Security**: Implement robust security measures to safeguard sensitive
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/shivansh84ya/MERN-TaskManagementSystem`
-2. Navigate to the project directory: `cd mern-task-management`
+1. Clone the repository: `git clone https://github.com/siddharthisrani/Task-Management.git`
+2. Navigate to the project directory: `cd Task-Management`
 3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
+4. Start the Frontend development server: `npm start`
+5. Start the Backend server: `nodemon`
+
+## Static Admin Credentials
+
+To access the admin panel with static credentials, use the following login information:
+
+- **Email**: siddharth@gmail.com
+- **Password**: sid123
 
 ## Owner
 Developed by [Siddharth Israni]
